@@ -30,3 +30,8 @@ Contact:
 	- Youtube Link : http://youtube.com/textcube
 	- Email : hompy@live.com
 
+
+[![INSTALL VIDEO](http://img.youtube.com/vi/E7oWrSpjGls/0.jpg)](http://www.youtube.com/watch?v=E7oWrSpjGls)
+
+
+[![INSTALL VIDEO](http://img.youtube.com/vi/9IcwD9ZB5nM/0.jpg)](http://www.youtube.com/watch?v=9IcwD9ZB5nM)
