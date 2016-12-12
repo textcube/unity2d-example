@@ -1,7 +1,5 @@
-unity2d-example
-===============
-
 Unity2D Action Game Example
+===========================
 
 For those who want to make an action game for the first time will help.
 
